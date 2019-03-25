@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hebeipaiy.markkirkham.com/sitemap.xml
